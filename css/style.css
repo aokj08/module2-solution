@@ -1,0 +1,11 @@
+* {
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+section{
+	background-color: gray;
+	width:50%;
+	height:50%;
+	border: black;
+}
